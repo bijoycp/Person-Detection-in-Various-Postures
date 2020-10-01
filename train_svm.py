@@ -52,4 +52,4 @@ svm.setC(2.67)
 
 # Train
 svm.train(samples, cv2.ml.ROW_SAMPLE, labels)
-svm.save('C:\\Users\\Richa Agrawal\\Desktop\\computer vision\\video\\re-svm\\data\\models\\svm_data.dat')
+svm.save('C:\\Users\\Richa Agrawal\\Desktop\\computer vision\\video\\re-svm\\data\\models\\svm_data.dat_1')
